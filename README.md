@@ -1,1 +1,1 @@
-Zadanie na kursie
+Zadanie - kurs JS gr. III
